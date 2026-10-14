@@ -2,33 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Ecologists | Restoration | Invasive Species
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic_Manaswi.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an ecologist, currently working as a postdoctoral researcher with the [SNAPP-MoRe working group](https://snapp-more.github.io/) and the Missouri Botanical Garden, USA. I am working to simplify the monitoring of restoration outcomes in tropical forests, savannas, and mangroves. A core part of my current work is to synthesize existing long-term monitoring datasets from around the tropics to investigate whether short-term monitoring can predict long-term outcomes of restoration. I am also characterizing existing monitoring "resources" (standards, protocols, frameworks, guidelines, etc.) to build an online tool for practitioners to find potential monitoring "resources" that apply to their requirements.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, during my [PhD](http://hdl.handle.net/10603/598956), I studied various community- and ecosystem-level impacts of woody invasive plants in a high-altitude forest-grassland mosaic in the Western Ghats biodiversity hotspot in south India. I studied the impacts of invasive plants on soil inorganic Nitrogen cycling, export of nutrients and sediments in stream water, and the native grassland community. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am interested in socio-ecological research, and how it can be used to evaluate social, environmental, and policy programs to design better interventions. I co-led the writing of a [report](https://doi.org/10.5281/zenodo.10040431) aimed at guiding the restoration of terrestrial ecosystems in India - a product of several stakeholders meeting as a part of the preparatory phase of India's National Mission on Biodiversity and Human Well-Being.
