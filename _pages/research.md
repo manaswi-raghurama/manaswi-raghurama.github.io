@@ -7,9 +7,10 @@ nav_order: 2
 ---
 <p>
 My research integrates empirical field ecology, data synthesis, statistical analysis, and socio-ecological research to:<br>
+    
     • investigate how ecosystems respond to anthropogenic activities and biological invasions,<br>
-    • to build tools that help increase the effectiveness of restoration and conservation practitioners, and<br>
-    • to build better environmental policies.
+    • build tools that help increase the effectiveness of restoration and conservation practitioners, and<br>
+    • build better environmental policies.
 </p> 
 
 <div class="row mt-5">
@@ -24,7 +25,7 @@ My research integrates empirical field ecology, data synthesis, statistical anal
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
     <p>
-      As the postdoctoral researcher in the <a href="https://snapp-more.github.io/" target="_blank">SNAPP-MoRe working group</a>, I am working to simplify restoration monitoring for practitioners in the tropics. Previously based in the University of Minnesota, and currently with the Missouri Botanical Garden, our working group's aims to help practitioners plan their monitoring efforts, and reach out to global NGOs with recommendations (backed by empirical evidence) for monitoring. We are synthesizing information from restoration at various scales, from plots to landscapes, towards this purpose. 
+      As the postdoctoral researcher in the <a href="https://snapp-more.github.io/" target="_blank">SNAPP-MoRe working group</a>, I am working to simplify restoration monitoring for practitioners in the tropics. Previously based in the University of Minnesota, and currently with the Missouri Botanical Garden, our working group aims to help practitioners plan their monitoring efforts, and reach out to global NGOs with recommendations (backed by empirical evidence) for monitoring. We are synthesizing information from restoration at various scales, from plots to landscapes, towards this purpose. 
     </p>
     <p>
       We have three ongoing inter-related projects:<br>
