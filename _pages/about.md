@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Ecologists | Restoration | Invasive Species
+subtitle: Ecologists | Restoration | Invasive Species
 
 profile:
   align: right
