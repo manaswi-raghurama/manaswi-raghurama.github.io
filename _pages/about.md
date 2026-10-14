@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ecologists | Restoration | Invasive Species
+subtitle: Ecologist | Restoration | Invasive Species
 
 profile:
   align: right
