@@ -5,11 +5,12 @@ permalink: /research/
 nav: true
 nav_order: 2
 ---
-
-My research integrates empirical field ecology, data synthesis, statistical analysis, and socio-ecological research to:
-    • investigate how ecosystems respond to anthropogenic activities and biological invasions, 
-    • to build tools that help increase the effectiveness of restoration and conservation practitioners, and
+<p>
+My research integrates empirical field ecology, data synthesis, statistical analysis, and socio-ecological research to:<br>
+    • investigate how ecosystems respond to anthropogenic activities and biological invasions,<br>
+    • to build tools that help increase the effectiveness of restoration and conservation practitioners, and<br>
     • to build better environmental policies.
+</p> 
 
 <div class="row mt-5">
   <div class="col-sm-12">
@@ -23,7 +24,7 @@ My research integrates empirical field ecology, data synthesis, statistical anal
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
     <p>
-      As the postdoctoral researcher in the [SNAPP-MoRe working group](https://snapp-more.github.io/), I am working to simplify restoration monitoring for practitioners in the tropics. Previously based in the University of Minnesota, and currently with the Missouri Botanical Garden, our working group's aims to help practitioners plan their monitoring efforts, and reach out to global NGOs with recommendations (backed by empirical evidence) for monitoring. We are synthesizing information from restoration at various scales, from plots to landscapes, towards this purpose. 
+      As the postdoctoral researcher in the <a href="https://snapp-more.github.io/" target="_blank">SNAPP-MoRe working group</a>, I am working to simplify restoration monitoring for practitioners in the tropics. Previously based in the University of Minnesota, and currently with the Missouri Botanical Garden, our working group's aims to help practitioners plan their monitoring efforts, and reach out to global NGOs with recommendations (backed by empirical evidence) for monitoring. We are synthesizing information from restoration at various scales, from plots to landscapes, towards this purpose. 
     </p>
     <p>
       We have three ongoing inter-related projects:<br>
@@ -50,10 +51,10 @@ My research integrates empirical field ecology, data synthesis, statistical anal
     </p>
     <p>
       <strong>Associated Publication:</strong><br>
-      • <u>Raghurama, M.</u>, & Sankaran, M. (2022). Restoring tropical forest–grassland mosaics invaded by woody exotics. <em>Restoration Ecology</em>, 29(<em>8</em>em), e13491. <a href="https://doi.org/10.1111/rec.13491" target="_blank">[doi: 10.1111/rec.13491]</a><br>
-      • <u>Raghurama, M.</u>, & Sankaran, M. (2022). Invasive nitrogen-fixing plants increase nitrogen availability and cycling rates in a montane tropical grassland. <em>Plant Ecology</em>, 223, 13–26. <a href="https://doi.org/10.1007/s11258-021-01188-4" target="_blank">[doi: 10.1007/s11258-021-01188-4]</a><br>
-      • <u>Raghurama, M.</u> (2024). <em>Community and Ecosystem impacts of woody plant invasion in the Shola Grasslands of the Nilgiris</em>. Doctoral dissertation, Tata Institute of Fundamental Research. <a href="http://hdl.handle.net/10603/598956" target="_blank">[http://hdl.handle.net/10603/598956]</a><br>
-      • <u>Raghurama, M.</u>, Krishnaswamy, J., Bhalla, R. S., Vaidyanathan, S., & Sankaran, M. (2026). Data and code: Invasive N-fixing trees transform nitrate export from being supply- to transport-limited in a forest-grassland mosaic. Zenodo. <a href="https://doi.org/10.5281/zenodo.19862172" target="_blank">[doi: 10.5281/zenodo.19862172]</a>
+      • <u>Raghurama, M.</u>, & Sankaran, M. (2022). Restoring tropical forest–grassland mosaics invaded by woody exotics. <em>Restoration Ecology</em>, 29(<em>8</em>em), e13491. <a href="https://doi.org/10.1111/rec.13491" target="_blank">[DOI]</a><br>
+      • <u>Raghurama, M.</u>, & Sankaran, M. (2022). Invasive nitrogen-fixing plants increase nitrogen availability and cycling rates in a montane tropical grassland. <em>Plant Ecology</em>, 223, 13–26. <a href="https://doi.org/10.1007/s11258-021-01188-4" target="_blank">[DOI]</a><br>
+      • <u>Raghurama, M.</u> (2024). <em>Community and Ecosystem impacts of woody plant invasion in the Shola Grasslands of the Nilgiris</em>. Doctoral dissertation, Tata Institute of Fundamental Research. <a href="http://hdl.handle.net/10603/598956" target="_blank">[LINK]</a><br>
+      • <u>Raghurama, M.</u>, Krishnaswamy, J., Bhalla, R. S., Vaidyanathan, S., & Sankaran, M. (2026). Data and code: Invasive N-fixing trees transform nitrate export from being supply- to transport-limited in a forest-grassland mosaic. Zenodo. <a href="https://doi.org/10.5281/zenodo.19862172" target="_blank">[DOI]</a>
     </p>
   </div>
 </div>
@@ -92,7 +93,7 @@ My research integrates empirical field ecology, data synthesis, statistical anal
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
     <p>
-      I am interested in conducting socio-ecological research to understand human-environment interactions, with the aim to gain insights that help design restoration and conservation interventions which do not negatively impact human societies. Before my PhD, I worked as a research fellow for 2 months with the [Panchabhuta Conservation Foundation](https://www.panchabhuta.org/), conducting surveys in the Aghanashini river estuary area to understand how the local farming and fishing communities use natural resources in the region. After my PhD, I also worked as a consultant for 6 months with the [Centre for Pastoralism](https://centreforpastoralism.org/), preparing a report on the penning economy in central India - a practice in which sheep and other livestock (mainly, sheep and goats) are made to stay in a temporarily fenced piece (a “pen”) of farmland.
+      I am interested in conducting socio-ecological research to understand human-environment interactions, with the aim to gain insights that help design restoration and conservation interventions which do not negatively impact human societies. Before my PhD, I worked as a research fellow for 2 months with the <a href="https://www.panchabhuta.org/" target="_blank">Panchabhuta Conservation Foundation</a>, conducting surveys in the Aghanashini river estuary area to understand how the local farming and fishing communities use natural resources in the region. After my PhD, I also worked as a consultant for 6 months with the <a href="https://centreforpastoralism.org/" target="_blank">Centre for Pastoralism</a>, preparing a report on the penning economy in central India - a practice in which sheep and other livestock (mainly, sheep and goats) are made to stay in a temporarily fenced piece (a “pen”) of farmland.
     </p>
   </div>
 </div>
