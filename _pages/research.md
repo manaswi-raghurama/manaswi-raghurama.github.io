@@ -67,7 +67,7 @@ My research integrates empirical field ecology, data synthesis, statistical anal
 
 <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/Policy_photo.jpg" title="Policy report main page" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/Policy photo.jpg" title="Policy report main page" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
     <p>
@@ -89,7 +89,7 @@ My research integrates empirical field ecology, data synthesis, statistical anal
 
 <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/panchabhuta.jpg" title="Landscape in " class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/panchabhuta.JPG" title="Landscape in Panchabhuta" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
     <p>
